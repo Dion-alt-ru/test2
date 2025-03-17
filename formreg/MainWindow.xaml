@@ -1,0 +1,35 @@
+﻿<Window x:Class="formreg.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:formreg"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="400">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+
+        
+        <!-- Логин -->
+        <TextBlock Text="Логин:" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5" Grid.Row="0" Grid.Column="0"/>
+        <TextBox Name="LoginTextBox" Width="150" Margin="60px 0 0 0"  VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="0" Grid.Column="1" />
+        
+        <!-- Пароль -->
+        <TextBlock Text="Пароль" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5" Grid.Row="1" Grid.Column="2"/>
+        <TextBox Name="PasswordBox" Width="150" Grid.Row="1" Grid.Column="1" Margin="60px 0 0 0" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        
+        <!-- Кнопки -->
+        <StackPanel Grid.Row="4" HorizontalAlignment="Center">
+            <Button Content="Войти" Width="100" Margin="5" Click="LoginButton_Click"/>
+            <Button Content="Зарегистрироваться" Width="150" Margin="5" Click="RegistrationButton_Click"/>
+            <Button Content="Восстановить пароль" Width="150" Margin="5" Click="ForgotPasswordButton_Click"/>
+        </StackPanel>
+        
+    </Grid>
+</Window>

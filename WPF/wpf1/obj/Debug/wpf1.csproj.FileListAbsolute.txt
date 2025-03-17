@@ -1,0 +1,17 @@
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\bin\Debug\wpf1.exe.config
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\bin\Debug\wpf1.exe
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\bin\Debug\wpf1.pdb
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\obj\Debug\wpf1.csproj.AssemblyReference.cache
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\obj\Debug\MainWindow.g.cs
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\obj\Debug\App.g.cs
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\obj\Debug\wpf1_MarkupCompile.cache
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\obj\Debug\wpf1_MarkupCompile.lref
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\obj\Debug\MainWindow.baml
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\obj\Debug\wpf1.g.resources
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\obj\Debug\wpf1.Properties.Resources.resources
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\obj\Debug\wpf1.csproj.GenerateResource.cache
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\obj\Debug\wpf1.csproj.CoreCompileInputs.cache
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\obj\Debug\wpf1.exe
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\obj\Debug\wpf1.pdb
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\obj\Debug\Window1.g.cs
+C:\Users\студент\Desktop\СИП233\WPF\wpf1\obj\Debug\Window1.baml

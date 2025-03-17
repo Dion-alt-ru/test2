@@ -1,0 +1,23 @@
+﻿<Window x:Class="wpf1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf1"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" Margin="123, 200, 123, 0">
+            <Button Background="Aqua" Content="qwdqwd"/>
+            <Button Background="Blue" Content="1231234"/>
+            <Button Background="Red" Content="d123e23d213d"/>
+        </StackPanel>
+        <TextBlock/>
+        <TextBlock/>
+        <ListBox SelectionMode="Multiple" Margin="190,145,190,217">
+            <ListBoxItem>1</ListBoxItem>
+            <ListBoxItem>2</ListBoxItem>
+            <ListBoxItem>3</ListBoxItem>
+        </ListBox>
+    </Grid>
+</Window>

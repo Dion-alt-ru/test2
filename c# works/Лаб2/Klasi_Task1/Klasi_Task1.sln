@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasi_Task1", "Klasi_Task1.csproj", "{D1826EE3-899C-47C2-9AC3-760AA8D87EC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1826EE3-899C-47C2-9AC3-760AA8D87EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1826EE3-899C-47C2-9AC3-760AA8D87EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1826EE3-899C-47C2-9AC3-760AA8D87EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1826EE3-899C-47C2-9AC3-760AA8D87EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DDFE52E-FC46-4D69-819A-6841811204E3}
+	EndGlobalSection
+EndGlobal

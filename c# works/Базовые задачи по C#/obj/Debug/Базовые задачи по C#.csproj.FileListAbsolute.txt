@@ -1,0 +1,7 @@
+C:\Users\студент\Desktop\c# works\Базовые задачи по C#\bin\Debug\Базовые задачи по C#.exe.config
+C:\Users\студент\Desktop\c# works\Базовые задачи по C#\bin\Debug\Базовые задачи по C#.exe
+C:\Users\студент\Desktop\c# works\Базовые задачи по C#\bin\Debug\Базовые задачи по C#.pdb
+C:\Users\студент\Desktop\c# works\Базовые задачи по C#\obj\Debug\Базовые задачи по C#.csproj.AssemblyReference.cache
+C:\Users\студент\Desktop\c# works\Базовые задачи по C#\obj\Debug\Базовые задачи по C#.csproj.CoreCompileInputs.cache
+C:\Users\студент\Desktop\c# works\Базовые задачи по C#\obj\Debug\Базовые задачи по C#.exe
+C:\Users\студент\Desktop\c# works\Базовые задачи по C#\obj\Debug\Базовые задачи по C#.pdb
